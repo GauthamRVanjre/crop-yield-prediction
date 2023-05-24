@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h1>Welcome to Next.js!</h1>
+        <h1>The opening page of the application, planning to make weather app call here itself</h1>
         <button className='btn btn-primary'>Click here</button>
       </div>
     </>
